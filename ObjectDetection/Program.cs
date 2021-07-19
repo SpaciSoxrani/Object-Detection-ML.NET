@@ -5,10 +5,10 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Linq;
 using Microsoft.ML;
-using NewModel.YoloParser;
-using NewModel.DataStructures;
+using ObjectDetection.YoloParser;
+using ObjectDetection.DataStructures;
 
-namespace NewModel
+namespace ObjectDetection
 {
     class Program
     {

@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using Microsoft.ML.Data;
 
-namespace NewModel.DataStructures
+namespace ObjectDetection.DataStructures
 {
     public class ImageNetData
     {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using NewModel.DataStructures;
-using NewModel.YoloParser;
+using ObjectDetection.DataStructures;
+using ObjectDetection.YoloParser;
 
-namespace NewModel
+namespace ObjectDetection
 {
     //Использование модели для оценки
     class OnnxModelScorer
